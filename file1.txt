@@ -1,3 +1,4 @@
 Hello, Git
 new line
 dev change 1
+partner change
